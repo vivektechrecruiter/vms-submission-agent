@@ -4,8 +4,15 @@ import os
 
 load_dotenv()
 
+api_key = os.getenv("OPENAI_API_KEY")
+
+if not api_key:
+    raise RuntimeError("OPENAI_API_KEY is not set.")
+
+print(f"API key loaded: {api_key[:10]}... length={len(api_key)}")
+
 client = OpenAI(
-    api_key=os.getenv("OPENAI_API_KEY")
+    api_key=api_key
 )
 def test_connection():
     response = client.responses.create(
