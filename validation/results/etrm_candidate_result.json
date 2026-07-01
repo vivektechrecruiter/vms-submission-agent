@@ -1,0 +1,48 @@
+{
+  "qualification_status": "No Fit",
+  "match_score": 20,
+  "recommendation": "Do Not Submit",
+  "top_jd_skills": [
+    "Java / J2EE",
+    "API Development",
+    "CI/CD Pipeline (Jenkins / Azure DevOps)",
+    "Docker / Containerization",
+    "Git / Version Control",
+    "Ansible / Configuration Management",
+    "Azure Cloud"
+  ],
+  "strong_matches": [
+    "Automation & scripting: Proven use of Python and Excel VBA to build analytics and reporting for trading/mid-office workflows (multiple roles).",
+    "Systems integration & data mapping: Experience integrating ETRM systems with market data and accounting systems, producing designs and SQL data mappings.",
+    "Project leadership & testing: Led ETRM enhancement projects, authored design/UAT materials, and coordinated stakeholders for implementation."
+  ],
+  "skill_gaps": [
+    "No evidence of hands-on Java / J2EE development (explicitly listed as 'Extensive Java & J2EE' required).",
+    "No evidence of API development (designing/implementing REST/HTTP APIs).",
+    "No demonstrated CI/CD pipeline experience (Jenkins, Azure DevOps, GitLab CI) or automation of secure build pipelines.",
+    "No Docker/containerization experience shown.",
+    "No explicit Git / source control workflow experience described (branching, pull requests, repo maintenance).",
+    "No Ansible or other configuration management experience.",
+    "No Azure cloud platform experience or cloud-native deployments mentioned.",
+    "No Venafi, SSH key discovery/management, PowerShell scripting for key discovery, or certificate management experience.",
+    "No IAM / Identity & Access Management engineering experience (MFA, SSO, RBAC, privileged access)."
+  ],
+  "screening_questions": [
+    "Do you have any hands-on Java / J2EE development experience? Provide recent projects, years of experience, and code responsibilities.",
+    "Have you designed or implemented REST APIs? If yes, which frameworks and tooling did you use?",
+    "Describe any CI/CD pipelines you have built or maintained (tools, responsibilities, and examples).",
+    "Do you have experience with Docker or container orchestration (Kubernetes)? Give examples.",
+    "Are you experienced with Git in a professional environment (branching strategy, PR reviews, repositories)?",
+    "Have you used Ansible or other configuration management tools in automation projects?",
+    "Do you have Azure experience (services used, deployment, IaC)?",
+    "Any exposure to Venafi, SSH key lifecycle management, PowerShell for agentless discovery, or certificate management?"
+  ],
+  "resume_improvements": [
+    "If any DevOps/engineering exposure exists (even limited), explicitly list tools, projects, and responsibilities (Java, APIs, CI/CD, Docker, Git, Ansible, Azure) with dates and outcomes.",
+    "Quantify and clarify Python production usage: mention frameworks, deployment context, whether scripts run in CI/CD or automated jobs, and integration points (APIs, databases).",
+    "Add a clear 'Technical Skills' section grouped by Development, DevOps/Cloud, Scripting, and Data to make any overlapping/transferable skills more visible to technical hiring managers."
+  ],
+  "submission_ready": false,
+  "submission_skills": [],
+  "supplier_comments": "Senior ETRM professional with 20 years and deep energy trading/risk management expertise; strong in analytics, Python/VBA automation, and ETRM system integrations. However, the role requires hands-on Java, API development, CI/CD, Docker, Azure and Venafi/SSH key management\u2014areas not evidenced on the resume, so I do not recommend submission."
+}

@@ -1,0 +1,23 @@
+MSP Owner: Kelly Gosciminski
+
+Location: San Antonio, TX - onsite
+
+Duration: 6 months
+
+GBaMS ReqID: 10796888
+
+ 
+
+API Development with DevSecOp
+
+API Development, CICD Pipeline, Java, Docker, Git, Ansible VSCODE/Intellij, Git, Azure
+
+ 
+
+"API Development, Cloud Transformation & DevSecOps engineering using automated secure CI/CD toolchain Extensive Java & J2EE Experience Workforce Identity Access Management development and maintenance Identity Access lifecycle management administration and automation. Access control and authorization engineering, Identity federation, application integration, and privileged access management using zero trust & modern identity initiatives (MFA, SSO, RBAC, Passwordless, Device Trust, SSPR) Security (protect identities), Engineering (build scalable systems), Operations (run critical infrastructure) Compliance (prove control effectiveness)"
+
+ 
+
+ 
+
+Role Descriptions: Technical Proficiency: Understanding of agent-based and agentless scanning tools to identify SSH keys across the infrastructure| including various operating systems (Windows| Unix/Linux) and services. Scripting Skills: Ability to work with and potentially customize PowerShell scripts for adaptable SSH key discovery| especially for agentless deployments. Cryptography Fundamentals: Basic understanding of public-key cryptography and how SSH keys and certificates function. Automation: Proficiency in automating SSH key lifecycle processes| including provisioning| rotation| remediation| and revocation. Integration Knowledge: Familiarity with integrating Venafi with other security tools like Active Directory| CyberArk| and other systems like ServiceNow etc. Problem-Solving: Ability to troubleshoot issues related to SSH key discovery| deployment| and usage. Network Understanding: Knowledge of network protocols and device configurations to effectively scan and locate SSH keys. Key Rotation: Understanding and ability to implement automated key rotation policies| with a best practice of rotating user keys Key Inventory Management: Skills in creating and maintaining an accurate| up-to-date inventory of all SSH keys| including their type| location| components| algorithm| and key sizes Certificate Management: Understanding of SSH certificates as an alternative or supplement to SSH keys| including their benefits like expiration dates and metadata| and the ability to manage them through Venafis SSH CA capabilities. Risk Assessment and Prioritization: Ability to identify vulnerabilities (e.g.| weak keys| old keys| duplicate keys| SSH usage| orphan keys| root access) and prioritize remediation efforts based on criticality. Access Control: Understanding of role-based access control and how to manage permissions for SSH key usage and issuance. Auditing and Reporting: Capability to generate reports on SSH key inventory| policy violations| usage patterns| and compliance status to facilitate audits

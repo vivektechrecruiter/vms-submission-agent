@@ -1,0 +1,136 @@
+{
+  "candidate_name": "SABU MATHEW GEORGE, ERM",
+  "phone": "832-660-1370",
+  "email": "sgeorge2786@gmail.com",
+  "location": "Stafford, TX.",
+  "linkedin": "https://www.linkedin.com/in/sabu-george-0703b94a/",
+  "visa_status": "",
+  "work_authorization": "",
+  "availability": "",
+  "rate": "",
+  "total_experience": "20 years of experience, including 14 years with the energy trading industry;",
+  "professional_summary": [
+    "20 years of experience, including 14 years with the energy trading industry; experience in providing leadership to Energy Risk Management, particularly with Mid-Office/Market Risk such as monitoring and reporting daily market risk exposures, including time and location spreads, cross-commodity arbitrage, options, and hedging activity against approved limits. Reconciling, reporting, and explaining the daily PnL, and perform independent price verification of pricing curves, particularly for illiquid curves and derived curves with proper documentation.",
+    "Comprehensive experience in assessing and reporting commodity risk exposure and MtM to the traders and senior management. This includes supporting Front Office daily operations of trade entry and schedule to capture all facets of risks from various transactions, specifically structured deals in the ETRM systems and explaining the drivers of daily Realized and Unrealized PnLs change and their reconciliation with the Month-end Gross margin numbers of the Back office and developing analytical tools to assist their daily operations.",
+    "Providing leadership to ETRM system enhancements initiatives, its integration with external and corporate systems, and providing support for all facets of energy trading/risk management (ETRM) projects. Involved in process improvement initiatives and their implementations through ETRM enhancements, and have mediated between IT process teams and Front office to update the system according to business and trading needs based on deal entry protocols. Actively involved in price curve maintenance and their validation in the ETRM system,.",
+    "Developed Risk Models and Analytics for commodity trade floor needs. Used modeling skills to value embedded optionality of various asset management commodity contracts in connection with valuing power plants, BESS Tolling, NG storage, and transport contracts, LNG contracts, Refined Products.",
+    "Extensively used Excel VBA and Python with SQL to develop analytical and reporting needs of the Front/Mid office and other groups within trade organizations"
+  ],
+  "education": [
+    "MS Finance with a concentration in Energy Risk Management ",
+    "Bauer College of Business, University of Houston.",
+    "Master of Philosophy in Applied Economics; Jawaharlal Nehru University, New Delhi, India",
+    "Master of Arts in Economics and Bachelor of Science in Mathematics; Mahatma Gandhi University, Kerala, India "
+  ],
+  "certifications": [
+    "Energy Risk Management (ERM) – Executive Level Certification Program; Bauer College of Business, University of Houston",
+    "Oracle Certified Professional (Oracle 8i, Oracle Report 6i)",
+    "Denodo Platform 7.0 Data Virtualization Architect"
+  ],
+  "skills_summary": [
+    "ETRM Systems – Nucleus/Entegrate, Allegro, EKA, Aligne, Pioneer, Molecule ",
+    "Energy Data Systems – PCI, Bloomberg, LIM, GlobalView, Platts, FEA, Oracle 8/8i / 9i/10g, SQL server 2008, MATLAB 7.7, Crystal Ball 11.1, MS Excel, VBA Applications, Python, SQL, Microsoft Power Query, Power BI, and PowerPivot MS Office, Oracle PL/SQL. "
+  ],
+  "employment_history": [
+    {
+      "company": "DCT Solutions Inc.",
+      "title": "Senior Manager – Risk Analytics Services (Contract)",
+      "employment_type": "",
+      "location": "Irving, TX",
+      "start_date": "January 2020",
+      "end_date": "present",
+      "responsibilities": [
+        "ETRMCare®: Managed application services for ETRM systems.",
+        "Risk and Quantitative analytics support to Energy Trading clients.",
+        "Manage Risk/settlement team of 6 contract analysts and provide guidance on functional/system/technical areas of Risk/settlement processes in Gas & power domains.",
+        "In Recent projects, modeled physical Gas & transportation deals and physical and Virtual power, AS and transmission/FTR deals (ERCOT, MISO, SPP, PJM, ISONE and CAISO) in the ETRM systems.  Modeled complex deal entry structured transactions like BESS, Retail Power and QSEs. ",
+        "Configured Futures, swaps, options and spreads deals in Allegro. Involved in the integration of market data like Platts and energy systems likes PCI",
+        "Involved in calculation of MtM, PnL, Position/Exposure, VAR, Counterparty risk from the Allegro system ",
+        "Setup Portfolio hierarchy/ Book structure in the ETRM systems ",
+        "Setup pipeline, point and market area in the ETRM systems.",
+        "Setup of valuations, accruals, settlements, invoicing and integration with accounting system ",
+        "Testing of trade execution, risk calculations, settlement and reports"
+      ],
+      "subsections": []
+    },
+    {
+      "company": "REPSOL USA",
+      "title": "Senior Market Risk /Business Analyst (Full-time)",
+      "employment_type": "",
+      "location": "Woodlands, TX",
+      "start_date": "August 2012",
+      "end_date": "July 2019",
+      "responsibilities": [
+        "Led ETRM enhancement projects pertaining to the Gas & Power Business Unit (BU). Worked with the Allegro end-users to implement trading system enhancements by documenting current processes, new functional requirements, citing best practices in the industry on business process improvement, and performing gap analysis; Projects were implemented using Agile methodology.",
+        "Developed high-level design of Allegro enhancement projects and communicated to technical teams through detail-level design documents with code review, SQL statements, and Data mapping with test scenarios. Also, facilitated user acceptance testing by coordinating various stakeholders of the ETRM system.",
+        "Managed and provided training to Allegro end users. Coordinated and delivered ad hoc query requests for Allegro data from internal and external users of the BU.",
+        "Supported Mid-office’s daily efforts to report MtM, positions, and value-at-risk (VaR) to LNG/Gas/Power trading desks and senior management. Supported weekly and month-end processes of reconciling realized and unrealized PnL with Front Office, Back Office, and Accounting groups. ",
+        "Provided support to Pre-Deal and Look-Back analysis on major Structured Deals such as Storage and Transport AMAs, Peaking, Power Plant Tolling, and Long-Term Storage contracts."
+      ],
+      "subsections": [
+        {
+          "name": "Allegro Projects",
+          "responsibilities": [
+            "Enhanced PnL Attributes report in Allegro by fixing the Allegro valuation.",
+            "Implemented position report in Allegro- Fixed price report.",
+            "Improved Allegro deal entry process by following the Deal Entry Protocols such as configuring risk type, non-standard deal entry process, linking asset management deals through strategies.",
+            "Configured Forward pane in Allegro to value complex Asset Management Deals ",
+            "Initiated the configuration of power and NGL deals in Allegro.",
+            "Curve management in Allegro – Creating price index, mapping them to Platt’s and ICE curves through Market View ",
+            "Enhanced (storage)Inventory Valuation in Allegro.",
+            "Improved Economic and Accounting PnLs recon project by differentiating derivative and non-derivative trades. ",
+            "Implemented Stress testing at Book and Asset level "
+          ]
+        }
+      ]
+    },
+    {
+      "company": "CALPINE INC.",
+      "title": "Middle Office – Senior Risk Analyst (Full-time)",
+      "employment_type": "",
+      "location": "Houston, TX",
+      "start_date": "June 2007",
+      "end_date": "July 2012",
+      "responsibilities": [
+        "Managed positions and PL reporting of gas and power trading activities, both physical and financial risk books.",
+        "Provided leadership role in Energy Trading Risk Management (ETRM) projects and mentored power and gas, risk analysts. ",
+        "Provided daily position and PL reporting for merchant services book. Provided month-end reconciliation between Gross Margin forecast and accounting group actual.",
+        "Identified potential areas of compliance risks by analyzing the trades and resolving regulatory compliance issues as well as assisting internal and external audits.",
+        "Ensured quality of First of Month, Intra Month (IM) Reports produced by IM team and reconciled it with Term End of month P & L.",
+        "Ensured quality of daily reporting of hedge position, curves, and plant valuation from IM reports.",
+        "Ensured quality of intra-month business processes: Power and gas volumetric position by curve and delivery period; Transaction volumes, tenors, and prices; End-of-day prices in ETRM; Settlement prices; MTM (commodity gross margin) valuations by curve and forward delivery period.",
+        "Oversee month ‘Flash’ process between Mid-office (Risk) and Back-office (Accounting) and assisted accounting in resolving counter-party disputes.",
+        "Validated and signed off on structured transactions entered by Deal Clearing and evaluated their implications on gross margin."
+      ],
+      "subsections": [
+        {
+          "name": "Project Management",
+          "responsibilities": [
+            "Project lead for non-merchant contracts valuation, Gas Storage Valuation projects, Put Spread Option valuation of generation assets, Power plant dispatch modeling, VAR and Stress Testing projects- ERCOT, PJM, ISO-NE, NYISO, and CAISO markets.",
+            "Gathered and documented ETRM functional business requirements and communicated to technical teams through high-level design documents.",
+            "Developed scenarios for UAT processes and materials for user training and ensured the quality of products delivered.",
+            "Modeled 23 Steam contracts in the ETRM (Nucleus) for Mark to Market valuation and invoicing. ",
+            "Designed and implemented an enterprise-level reporting architecture by integrating various data sources and delivered through Risk Portal.",
+            "Improved the quality of deal entries in Nucleus through various real-time exception reports. "
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Black & Veatch",
+      "title": "Senior Associate (Contract)",
+      "employment_type": "",
+      "location": "Houston, TX",
+      "start_date": "January 2005",
+      "end_date": "May 2007",
+      "responsibilities": [
+        "Performed energy market analysis and economic analysis pertaining to North American Natural Gas and Power markets to support consulting projects.  ",
+        "Built market models of natural gas and power markets using in-house economic and option valuation tools such as Storage Valuation Advisor, Park & Loan Optimizer, Energy Risk Advisor, etc. ",
+        "Provided market analysis, price forecast, and evaluation of investment opportunities for LDCs, natural gas pipeline, and marketing companies",
+        "Developed risk management and hedging tools for clients to mitigate their risk from oil and natural gas contracts.",
+        "Developed statistical and stochastic models to analyze historical behavior of natural gas, power, and oil prices and to simulate various price indices – gas daily price, first of month price, and forward price."
+      ],
+      "subsections": []
+    }
+  ]
+}

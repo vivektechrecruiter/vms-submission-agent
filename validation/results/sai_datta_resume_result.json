@@ -1,0 +1,63 @@
+{
+  "qualification_status": "Partial Fit",
+  "match_score": 75,
+  "recommendation": "Screen Further",
+  "top_jd_skills": [
+    "Java / J2EE",
+    "API Development (REST/Serverless APIs)",
+    "CI/CD Pipeline (Jenkins, Azure DevOps, TeamCity, Octopus)",
+    "Docker / Containerization",
+    "Git (GitHub, Bitbucket, GitLab)",
+    "Ansible (Playbooks, Roles)",
+    "Azure (AKS, App Services, ARM/Terraform)"
+  ],
+  "strong_matches": [
+    "Azure platform expertise: designed and deployed Azure infrastructure (VMs, App Services, AKS, Azure SQL, Azure Functions), used ARM templates, Terraform, Azure DevOps and Azure Automation.",
+    "CI/CD pipelines: extensive hands-on building and maintaining CI/CD pipelines using Jenkins, TeamCity, Azure DevOps/VSTS, Octopus Deploy and Git-based workflows for containerized and JVM apps.",
+    "Containerization and orchestration: built and managed Docker containers, Helm charts, Kubernetes (AKS/EKS/KOPS/OpenShift) clusters and automated deployments to production.",
+    "Ansible automation: authored playbooks, roles, inventories and integrated Ansible into CI pipelines to provision and configure environments.",
+    "Git/version control: managed branches and integrations with CI systems; used GitHub and GitLab APIs and repositories in pipelines.",
+    "Privileged and SSH key management: implemented CyberArk PAM and Venafi SSH Protect, automated SSH key discovery, rotation, vaulting and integrated with AD and CI/CD processes.",
+    "Scripting for automation: developed PowerShell and Python scripts for identity lifecycle, SSH key inventory/rotation, Azure automation runbooks and deployment automation."
+  ],
+  "skill_gaps": [
+    "Depth of Java/J2EE hands-on development: resume shows involvement in Java build/release and code reviews but limited evidence of extensive J2EE application development (controllers, services, frameworks like Spring).",
+    "Direct, demonstrable API development experience: some serverless API and microservices deployment experience exists, but limited explicit evidence of designing/implementing REST APIs, API contracts, or use of API frameworks in production.",
+    "IDE usage (VSCODE/IntelliJ) not called out: no explicit references to developing in IntelliJ or VS Code which are listed as mandatory in JD.",
+    "Agent-based/agentless scanning tooling experience (specific to SSH key discovery) beyond Venafi: while Venafi and SSH automation are present, explicit experience with agent-based vs agentless scanning tools and customizing PowerShell for agentless discovery is not strongly detailed.",
+    "Cryptography/SSH certificate lifecycle using Venafi SSH CA: resume mentions Venafi SSH Protect and SSH automation but limited explicit examples of managing SSH certificates and Venafi SSH CA workflows."
+  ],
+  "screening_questions": [
+    "Describe your hands-on Java/J2EE development experience: number of years coding Java, frameworks used (e.g., Spring), and recent Java projects where you implemented business logic (not just build/release).",
+    "Give specific examples of APIs you developed: did you design/implement REST endpoints, API contracts, authentication/authorization, API Management integrations\u2014which technologies were used?",
+    "Have you used IntelliJ or VS Code as your primary IDE? Provide examples of recent development work performed in these IDEs.",
+    "Detail your experience with Venafi SSH CA and agentless SSH key discovery: have you customized PowerShell scripts for agentless scans, and have you integrated Venafi with ServiceNow/CyberArk/AD for automation?",
+    "Are you willing/able to work onsite in San Antonio, TX for the contract period and what is your current authorization/availability?"
+  ],
+  "resume_improvements": [
+    "Move Java/J2EE contributions higher in the summary: quantify Java involvement (years) and list specific Java frameworks, modules or full-stack responsibilities (e.g., Spring MVC/Boot, REST controllers) where applicable.",
+    "Make API development explicit: add bullets that state REST API design/implementation, API contracts, authentication (OAuth/JWT), and API Management usage (if done) to align with the API Development requirement.",
+    "List IDE experience: add explicit mentions of IntelliJ IDEA and/or VS Code under skills or within relevant role bullets where code work was performed.",
+    "Expand Venafi/CyberArk bullets to call out concrete outcomes: e.g., number of SSH keys discovered, rotation cadence automated, integrations with ServiceNow/CyberArk, and reporting/audit capabilities implemented.",
+    "Condense and highlight CI/CD bullet points: emphasize pipeline ownership, technologies (Jenkins, Azure DevOps, TeamCity), and examples of automated security/gates used in the pipelines (e.g., secrets scanning, automated key rotation steps)."
+  ],
+  "submission_ready": false,
+  "submission_skills": [
+    {
+      "skill": "Azure (AKS, App Services, ARM/Terraform)",
+      "years_experience": "5+ years",
+      "relevant_experience": "Designed and managed Azure infrastructure across multiple roles (Target, PNC, Global Payments) including AKS, App Services, ARM/Terraform, Azure Functions and Azure DevOps pipelines."
+    },
+    {
+      "skill": "CI/CD Pipeline (Jenkins, TeamCity, Azure DevOps, Octopus)",
+      "years_experience": "7+ years",
+      "relevant_experience": "Built and maintained CI/CD pipelines using Jenkins, TeamCity, Azure DevOps and Octopus across Java and containerized microservices environments; integrated pipelines with testing and release automation."
+    },
+    {
+      "skill": "SSH Key & Privileged Access Management (Venafi SSH Protect, CyberArk)",
+      "years_experience": "2+ years",
+      "relevant_experience": "Implemented Venafi SSH Protect and CyberArk PAM, automated SSH key discovery, rotation and vaulting, integrated with AD and CI/CD pipelines and developed PowerShell automation for key lifecycle management."
+    }
+  ],
+  "supplier_comments": "Strong Azure DevOps/DevSecOps engineer with proven experience implementing Venafi and CyberArk for SSH key lifecycle automation. Excellent CI/CD and container orchestration background; needs validation on depth of Java/J2EE and hands-on API development before submission. Will be a good fit for DevSecOps tasks after quick screening."
+}
